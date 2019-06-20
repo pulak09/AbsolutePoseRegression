@@ -10,10 +10,10 @@ For any query email to pulak.isi@gmail.com
 
 It requires .sift files to train and evaluate the network. One example is given in dataset_new_train.txt and along with few training images in sift_new.zip archive (https://drive.google.com/file/d/1YNQeaFQKY_ALLvaM5iCr4IwUSJRyXFw2/view?usp=sharing). 
 
-To train the network: 
+To train the network:
 
-python train.py 
+    python train.py 
 
 To evaluate 
 
-python evaluate.py  
+    python evaluate.py  
