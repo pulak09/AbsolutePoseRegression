@@ -14,6 +14,6 @@ To train the network:
 
     python train.py 
 
-To evaluate 
+To evaluate: 
 
     python evaluate.py  
