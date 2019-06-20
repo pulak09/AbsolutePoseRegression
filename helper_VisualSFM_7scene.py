@@ -1,7 +1,7 @@
 
 # THIS IS A DEMO CODE FOR THE FOLLOWING PAPER 
 # Synthetic Views Generation for Absolute Pose Regression and Virtual Reality, BMVC 2018 
-# DEVELOPED BY PULAK PURKAIT, EMAIL: pulak.purkait@crl.toshiba.co.uk 
+# DEVELOPED BY PULAK PURKAIT, EMAIL: pulak.isi@gmail.com
 
 from tqdm import tqdm
 import struct
@@ -14,7 +14,7 @@ import string
 from multiprocessing import Pool
 
 #import cv2
-directory = "/media/ppurkait/Data (B):/SevenScene/stairs/"
+directory = "./"
 # directory = "../Dataset/stairs/"
 import numpy.matlib
 

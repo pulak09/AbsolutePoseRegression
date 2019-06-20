@@ -2,7 +2,7 @@
 
 # THIS IS A DEMO CODE FOR THE FOLLOWING PAPER 
 # Synthetic Views Generation for Absolute Pose Regression and Virtual Reality, BMVC 2018 
-# DEVELOPED BY PULAK PURKAIT, EMAIL: pulak.purkait@crl.toshiba.co.uk 
+# DEVELOPED BY PULAK PURKAIT, EMAIL: pulak.isi@gmail.com
 
 import argparse
 import math
